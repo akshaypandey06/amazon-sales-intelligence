@@ -92,8 +92,8 @@ The project includes a robust SQL file covering:
 ## 🚀 How to Run the Project
 1. **Clone the repository and enter the directory:**
    ```bash
-   git clone <your-repo-url>
-   cd Amazon_sales
+   git clone https://github.com/akshaypandey06/amazon-sales-intelligence.git
+cd amazon-sales-intelligence
    ```
 2. **Download the dataset:**
    - Download the raw CSV from the Kaggle link in the Data Availability section.
